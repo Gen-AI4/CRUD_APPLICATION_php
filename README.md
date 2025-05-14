@@ -60,6 +60,3 @@ This is a simple CRUD (Create, Read, Update, Delete) web application built using
     ```
 
 5. Begin using the application by adding new student records.
-
-## File Structure
-
